@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "719297431347",
+    "firebase_url": "https://subscribe-223906.firebaseio.com",
+    "project_id": "youtubesubscribe-223906",
+    "storage_bucket": "youtubesubscribe-223906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719297431347:android:430f06792244d4b6",
+        "android_client_info": {
+          "package_name": "in.tutorialstack.youtubesubscribe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719297431347-d7uoihqtlt72bpgepbvd3p4pdsp8qmnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.tutorialstack.youtubesubscribe",
+            "certificate_hash": "60c15c5eb505f0b44abdbf0b9c8414371eb2e44e"
+          }
+        },
+        {
+          "client_id": "719297431347-haavtlj5h7lm6pk3k2ikuhj5tp41al7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfVF594CdRLp-qNfxVIBYkf9_DzhNnR_M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719297431347-haavtlj5h7lm6pk3k2ikuhj5tp41al7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
